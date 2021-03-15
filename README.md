@@ -1,0 +1,1 @@
+This project will create HTML markup from .txt files and deploy it a home server. The current iteration creates the markup to be used on cookingandcats.com for our website about cooking and gardening. 
